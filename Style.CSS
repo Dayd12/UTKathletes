@@ -2,3 +2,9 @@ body {
   background-image: url(https://sykelenterprises.com/cdn/shop/files/TEN1395_1.jpg?v=1767372266&width=548);
   font-family: sans-serif;
   padding: 20px;
+img {width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;}
