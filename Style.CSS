@@ -1,8 +1,31 @@
 body {
   background-image: url(https://sykelenterprises.com/cdn/shop/files/TEN1395_1.jpg?v=1767372266&width=548);
   font-family: sans-serif;
-  padding: 20px;
-.softball{ width:1000px; 
+  padding: 20px;}
+.softball{width:50px; 
 height: auto;}
+.coaches{width:50px;
+height:auto;}
 
-.coaches
+img{display:block; width:400px;
+}
+
+.smokey{
+  float: right;
+  margin-left: 20px;
+ width: 60%;
+  height: 1000px;
+  object-fit: cover;
+  object-position: center top;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+
+a{color: grey;}
+
+a:visited{color: grey;}
+
+a:hover{color:black;}
+
+a:active{color:black;}
